@@ -24,6 +24,7 @@ linters:
     - unconvert
     - unused
     - wastedassign
+    - gosmopolitan
   settings:
     depguard:
       rules:
