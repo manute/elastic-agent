@@ -12,6 +12,7 @@ linters:
     - gomoddirectives
     - gomodguard
     - gosec
+    - gosmopolitan
     - govet
     - importas
     - ineffassign
@@ -24,7 +25,6 @@ linters:
     - unconvert
     - unused
     - wastedassign
-    - gosmopolitan
   settings:
     depguard:
       rules:
